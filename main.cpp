@@ -1,4 +1,4 @@
-a#include<iostream.h>                                                                                                                                                                                                                                                              #include<iostream.h>
+#include<iostream.h>                                                                                                                                                                                                                                                              #include<iostream.h>
 #include<string.h>
 #include<conio.h>
 #include<string.h>
